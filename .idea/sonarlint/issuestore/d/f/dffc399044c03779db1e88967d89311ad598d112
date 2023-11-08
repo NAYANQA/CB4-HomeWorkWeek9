@@ -1,0 +1,27 @@
+
+o
+java:S1192	"RDefine a constant instead of duplicating this literal "Employee Name :- " 6 times.(åË»ÿ8¡èÿÍº1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "Employee salary :- " 5 times.( ¿„…üÿÿÿÿ8¡èÿÍº1
+l
+java:S1192"PDefine a constant instead of duplicating this literal "Employee ID :- " 6 times.(ˆì¥X8¡èÿÍº1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µË¸Œûÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ˆì¥X
+@	java:S106	"+Replace this use of System.out by a logger.(åË»ÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(•ˆêşÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ˆì¥X8ÏèÿÍº1
+G	java:S106"+Replace this use of System.out by a logger.(åË»ÿ8ÏèÿÍº1
+L	java:S106"+Replace this use of System.out by a logger.( ¿„…üÿÿÿÿ8ÏèÿÍº1
+F	java:S106"+Replace this use of System.out by a logger.(ˆì¥X8ÒèÿÍº1
+G	java:S106"+Replace this use of System.out by a logger.(åË»ÿ8ÔèÿÍº1
+G	java:S106"+Replace this use of System.out by a logger.(±¹Ğ8ÕèÿÍº1
+F	java:S106"+Replace this use of System.out by a logger.(ˆì¥X8ØèÿÍº1
+G	java:S106"+Replace this use of System.out by a logger.(åË»ÿ8ÛèÿÍº1
+G	java:S106"+Replace this use of System.out by a logger.(“¹©•8ãèÿÍº1
+F	java:S106 "+Replace this use of System.out by a logger.(ˆì¥X8ëèÿÍº1
+G	java:S106!"+Replace this use of System.out by a logger.(åË»ÿ8íèÿÍº1
+L	java:S106""+Replace this use of System.out by a logger.( ¿„…üÿÿÿÿ8íèÿÍº1
+F	java:S106&"+Replace this use of System.out by a logger.(ˆì¥X8òèÿÍº1
+G	java:S106'"+Replace this use of System.out by a logger.(åË»ÿ8óèÿÍº1
+L	java:S106("+Replace this use of System.out by a logger.(ö—ºûûÿÿÿÿ8óèÿÍº1
